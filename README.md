@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Avinash Jha
 
-Data Analyst
+<div align="center">
+<h2><b>Data Analyst</b></h2>
+</div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Avinash-Jha19&color=blue)
 
