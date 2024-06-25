@@ -22,11 +22,3 @@
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white)
-
-## Pinned Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Avinash-Jha19&repo=Excel-Sales-Analytics&v=1)](https://github.com/Avinash-Jha19/Excel-Sales-Analytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Avinash-Jha19&repo=SteelCo-Business-Analysis)](https://github.com/Avinash-Jha19/SteelCo-Business-Analysis)
-
-## Popular Repositories:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Avinash-Jha19&repo=Excel-Sales-Analytics)](https://github.com/Avinash-Jha19/Excel-Sales-Analytics)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Avinash-Jha19&repo=SteelCo-Business-Analysis)](https://github.com/Avinash-Jha19/SteelCo-Business-Analysis)
