@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Avinash Jha
+<div align="center">
+<h1> Hi there 👋, I'm Avinash Jha </h1>
+</div>
 
 <div align="center">
 <h2><b>Data Analyst</b></h2>
